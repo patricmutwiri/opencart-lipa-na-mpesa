@@ -71,6 +71,7 @@
             <td><?php echo $entry_sort_order; ?></td>
             <td><input type="text" name="mpesa_sort_order" value="<?php echo $mpesa_sort_order; ?>" size="1" /></td>
           </tr>
+          <tr><td> Repo </td><td><?php echo $entry_dev ?></td></tr>
         </table>
       </form>
     </div>
