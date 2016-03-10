@@ -13,6 +13,7 @@ $_['entry_order_status'] = 'Order Status:';
 $_['entry_geo_zone']     = 'Geo Zone:';
 $_['entry_status']       = 'Status:';
 $_['entry_sort_order']   = 'Sort Order:';
+$_['entry_dev'] 		 = '<a href="https://github.com/patricmutwiri/opencart-lipa-na-mpesa">Documentation</a>';
 
 // Error
 $_['error_permission']   = 'Warning: You do not have permission to modify payment Lipa na Mpesa!';
